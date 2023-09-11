@@ -1,10 +1,14 @@
 ### Olá! Eu sou o Harlley Iver 👋
+##
 
 <div>
   <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harlleyiver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harlleyiver&layout=compact&langs_count=16&theme=dark"/>
+  <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harlleyiver&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
+
+##
+
 <div  align="left"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -24,7 +28,4 @@
 <h3 align="left">Contatos:</h1>
 <a href = "https://www.linkedin.com/in/harlley-iver/">
 <img align="left" height="30" width="40" alt="linkedin-icon" src="linkedin.svg" />
-
-   
-      
 </div>
