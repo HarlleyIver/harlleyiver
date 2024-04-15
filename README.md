@@ -20,8 +20,8 @@
    </div>
 <br>
   
-- ☕ Atualmente estudando Java, Spring boot, Dockers.
-- 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
+- ☕ Atualmente estudando .NET, Java, Spring boot, Dockers.
+- 💻 À procura da minha primeira oportunidade no mundo Tech.
 
 <div style="display: inline_block">
 <h3 align="left">Contatos:</h1>
