@@ -20,7 +20,7 @@
    </div>
 <br>
   
-- ☕ Atualmente estudando .NET, Java, Spring boot, Dockers.
+- ☕ Atualmente estudando .NET, AWS, Java, Spring boot, Dockers.
 - 💻 À procura da minha primeira oportunidade no mundo Tech.
 
 <div style="display: inline_block">
